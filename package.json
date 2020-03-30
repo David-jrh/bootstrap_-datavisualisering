@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap_-datavisualisering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-jrh/bootstrap_datavisualisering.git"
+  },
+  "author": "Jacob,Johan,David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-jrh/bootstrap_datavisualisering/issues"
+  },
+  "homepage": "https://github.com/David-jrh/bootstrap_datavisualisering#readme"
+}
