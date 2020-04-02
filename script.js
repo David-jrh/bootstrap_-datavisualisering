@@ -16,6 +16,19 @@ $(window).scroll(function(e) {
 });
 
 
+// scroll functions
+$(window).scroll(function(a) {
+
+  // add/remove class to navbar when scrolling to hide/show
+  var scroll = $(window).scrollTop();
+  if (scroll >= 350) {
+    $('.arrow').removeClass("arrow-hide");
+  } else {
+    $('.arrow').addClass("arrow-hide");
+  }
+
+});
+
 
 
 (function() {
